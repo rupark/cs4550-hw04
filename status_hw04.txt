@@ -16,10 +16,10 @@ https://github.com/rupark/cs4550-hw04.git
 The calculator function works, but can only add. I could not figure out how to switch the mode. I also was unable to get factoring working. I created a recursive function, but the list would not append.
 
 5. Did you successfully deploy? If not, what's broken?
-I'm running into the error "System has not been booted with systemd as init system (PID 1). Can't operate. Failed to connect to bus: Host is down". It doesn't seem that anyone online has a solution for this error on Debian. I am able to deploy by running the deploy script manually, but I cannot start the systemd service.
+Yes
 
 6. How comfortable do you feel with Elixir now?
-Not very comfortable.
+Comfortable.
 
 7. Which parts of this assignment did you have trouble with, if any?
 Learning Elixir, creating a systemd service
